@@ -10,3 +10,5 @@ First commit on new-branch
 Second commit on new-branch
 
 Hello!
+
+Can you hear me?
